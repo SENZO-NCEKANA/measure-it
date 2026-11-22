@@ -1,0 +1,76 @@
+calibration/images/IMG_20261122_174037.jpg board NOT found, skipped
+calibration/images/IMG_20261122_174042.jpg board NOT found, skipped
+calibration/images/IMG_20261122_174056.jpg board NOT found, skipped
+calibration/images/IMG_20261122_174059.jpg board NOT found, skipped
+calibration/images/IMG_20261122_174101.jpg board NOT found, skipped
+calibration/images/IMG_20261122_174119.jpg board found
+calibration/images/IMG_20261122_174130.jpg board found
+calibration/images/IMG_20261122_174132.jpg board found
+calibration/images/IMG_20261122_174134.jpg board found
+calibration/images/IMG_20261122_174135.jpg board found
+calibration/images/IMG_20261122_174136.jpg board found
+calibration/images/IMG_20261122_174140.jpg board found
+calibration/images/IMG_20261122_174144.jpg board found
+calibration/images/IMG_20261122_174146.jpg board found
+calibration/images/IMG_20261122_174149.jpg board found
+calibration/images/IMG_20261122_174152.jpg board found
+calibration/images/IMG_20261122_174156.jpg board found
+calibration/images/IMG_20261122_174159.jpg board found
+calibration/images/IMG_20261122_174203.jpg board found
+calibration/images/IMG_20261122_174207.jpg board found
+calibration/images/IMG_20261122_174210.jpg board found
+calibration/images/IMG_20261122_174213.jpg board found
+calibration/images/IMG_20261122_174216.jpg board found
+calibration/images/IMG_20261122_174217.jpg board found
+calibration/images/IMG_20261122_174220.jpg board found
+calibration/images/IMG_20261122_174223.jpg board found
+calibration/images/IMG_20261122_174225.jpg board found
+calibration/images/IMG_20261122_174227.jpg board found
+calibration/images/IMG_20261122_174231.jpg board found
+calibration/images/IMG_20261122_174233.jpg board found
+Photos used: 25 of 30
+
+Free calibration (kept only for the record):
+  RMS (px): 2.786
+  fx, fy: 2852.0 2901.0  centre cx, cy: 2035.0 1731.0
+Dropped calibration/images/IMG_20261122_174210.jpg error 5.52 px
+Dropped calibration/images/IMG_20261122_174216.jpg error 8.02 px
+Photos in the final fit: 23
+
+Calibration used (centre fixed, fx = fy, k3 = 0):
+  RMS (px): 2.294
+  Camera matrix:
+ [[3001.9    0.  2080. ]
+ [   0.  3001.9 1560. ]
+ [   0.     0.     1. ]]
+  Distortion (k1, k2, p1, p2, k3): [ 0.0726  0.0058 -0.0046  0.0004  0.    ]
+  Field of view across: 69.4 degrees
+  Board distance (median): 245 mm
+  RMS in mm at that distance: 0.187
+
+Error per photo (px):
+  calibration/images/IMG_20261122_174119.jpg 2.18
+  calibration/images/IMG_20261122_174130.jpg 2.14
+  calibration/images/IMG_20261122_174132.jpg 2.12
+  calibration/images/IMG_20261122_174134.jpg 2.12
+  calibration/images/IMG_20261122_174135.jpg 2.1
+  calibration/images/IMG_20261122_174136.jpg 2.14
+  calibration/images/IMG_20261122_174140.jpg 2.11
+  calibration/images/IMG_20261122_174144.jpg 2.2
+  calibration/images/IMG_20261122_174146.jpg 2.2
+  calibration/images/IMG_20261122_174149.jpg 2.11
+  calibration/images/IMG_20261122_174152.jpg 2.09
+  calibration/images/IMG_20261122_174156.jpg 2.1
+  calibration/images/IMG_20261122_174159.jpg 2.3
+  calibration/images/IMG_20261122_174203.jpg 2.3
+  calibration/images/IMG_20261122_174207.jpg 2.24
+  calibration/images/IMG_20261122_174213.jpg 2.07
+  calibration/images/IMG_20261122_174217.jpg 2.13
+  calibration/images/IMG_20261122_174220.jpg 2.82
+  calibration/images/IMG_20261122_174223.jpg 2.08
+  calibration/images/IMG_20261122_174225.jpg 2.1
+  calibration/images/IMG_20261122_174227.jpg 3.02
+  calibration/images/IMG_20261122_174231.jpg 2.84
+  calibration/images/IMG_20261122_174233.jpg 2.84
+
+Saved calibration/camera.npz

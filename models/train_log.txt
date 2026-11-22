@@ -1,0 +1,7 @@
+train photos: 56  val photos: 16
+epoch 1: train loss 0.580, val mask mAP@0.5:0.95 0.915, mAP@0.5 1.000, 6.4 min so far
+  saved models/best.pth (best val so far)
+epoch 2: train loss 0.124, val mask mAP@0.5:0.95 0.947, mAP@0.5 1.000, 16.0 min so far
+  saved models/best.pth (best val so far)
+epoch 3: train loss 0.099, val mask mAP@0.5:0.95 0.991, mAP@0.5 1.000, 24.4 min so far
+  saved models/best.pth (best val so far)
