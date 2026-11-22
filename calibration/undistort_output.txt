@@ -1,0 +1,4 @@
+Straightened 0 dataset photos into dataset/images/
+Board photos checked: 25
+Worst corner off its straight line, median over photos (px):
+  raw: 8.24   undistorted: 5.27
