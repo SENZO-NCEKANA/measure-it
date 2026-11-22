@@ -48,10 +48,21 @@ Items 1–4 come first: they are the floor. Then items 5 and 6, then 7 and 9. It
 - A GPU or the cloud: everything runs on my laptop's CPU.
 
 ## Changes to this plan
-None yet. Each change gets the time and the reason.
+- **17:30, board photos, first set.** My first 30 board photos held only 3 board positions: I took them in bursts and didn't move the board between shots. A trial calibration gave RMS 2.3 px with the centre 245 px off. I moved them out of the repo and retook them.
+- **17:50, board photos, second set.** 25 of 30 were usable, but all view the board from one side, so the free calibration put the centre at cy = 1731. I fixed the centre at the middle of the image, with fx = fy and k3 = 0, and dropped the 2 photos above twice the median error. Result: 23 photos, RMS 2.29 px (0.19 mm at 245 mm), fx 3002, against 3005 in my practice run on 8 Nov. This misses my 1 px target. I kept it to protect the floor.
+- **18:47 to 19:36, dataset photos.** My first three attempts were unusable: the card and the marker were in separate photos, or a ruler stood in for the marker, and many were burst copies. I moved each set out of the repo and retook them, checking one test photo first. This cost about 1.5 hours.
+- **19:36, tilt photos (item 8) skipped** to protect the floor. Item 8 is not reached.
+- **19:50, dataset kept with a known weakness.** 83 photos with the card and the marker together (marker found in 82); I kept the first 80. I didn't turn the card between shots, so the variety comes from moving the phone, and many photos are near-copies that fall across train, val and test. My test scores will be optimistic. I added flip and 90° rotation augmentation in training.
+- **20:12, measurement photos.** 16 photos of one placement in the centre of the frame, not 12 placements, and none near the frame edges. They serve both item 5 (one row per photo) and repeatability, so there are no separate repeatability photos. Item 6 is therefore tested near the centre only, where distortion is weakest.
+- **Camera held by hand, not on a stand.** Distance and tilt vary a little between photos. The marker sets the scale in each photo, so this doesn't change the mm conversion.
+- **21:46, training settings before the first run:** 5 epochs instead of an open number, and only the last backbone stage trainable, to fit the CPU time left. Nothing was tuned after seeing a result.
+- **Item 4, tilt.** The mm conversion maps the card's outline onto the marker's plane with a homography from the marker's 4 corners, which corrects moderate camera tilt as well. The tilt limit stays as a refusal.
+- **22:21, training stopped after epoch 3 of 5.** I ran the test evaluation while training was still in epoch 4, on the epoch-3 checkpoint (the best val so far, mask mAP 0.991). To keep the test split scored once, on the final model, I stopped training there. Epochs 4 and 5 were not completed.
+- **22:30, accuracy rerun.** The first accuracy run overlapped the end of training, which slowed its timing (median 6.36 s). I reran it with nothing else running: same measurements, median 2.68 s.
+- **Refusals (item 9) only partly shown.** None of my 16 measurement photos crossed a threshold, so I can show where each threshold sits but not yet the error it removes. A photo without the marker is refused (`results/refusal_example.txt`).
 
 ## Decision record (item 10)
 - **Took:** torchvision's Mask R-CNN, pretrained on COCO and fine-tuned on my photos.
 - **Rejected:** U-Net.
 - **Why:** Mask R-CNN gives a confidence score for each object, which my refusals need (item 9), and pycocotools gives the standard mAP for its output. U-Net gives no score for each object, and it would need my own mAP code.
-- **What rejecting U-Net cost:** speed. Mask R-CNN is a large model. My speed test before the clock gave 5.71 s per training step and 2.35 s per photo on my CPU, at size 800. I'll add the real training time at the end.
+- **What rejecting U-Net cost:** speed. Mask R-CNN is a large model. My speed test before the clock gave 5.71 s per training step and 2.35 s per photo on my CPU, at size 800. **On the day:** 3 epochs took 24 minutes on the CPU (about 6.4 minutes per epoch with nothing else running), which is why I froze all but the last backbone stage and stopped at 5 epochs or fewer. The one command takes a median of 2.68 s per photo.
