@@ -1,0 +1,2580 @@
+{
+  "images": [
+    {
+      "width": 4160,
+      "height": 3120,
+      "id": 0,
+      "file_name": "..\/..\/..\/..\/..\/..\/Users\/senzoncekana\/CV Personal Assistant\/xis.ai Assessment - Measure It\/label-studio-data\/media\/upload\/4\/eb82bc39-card_001.jpg"
+    },
+    {
+      "width": 4160,
+      "height": 3120,
+      "id": 1,
+      "file_name": "..\/..\/..\/..\/..\/..\/Users\/senzoncekana\/CV Personal Assistant\/xis.ai Assessment - Measure It\/label-studio-data\/media\/upload\/4\/d547f7d8-card_002.jpg"
+    },
+    {
+      "width": 4160,
+      "height": 3120,
+      "id": 2,
+      "file_name": "..\/..\/..\/..\/..\/..\/Users\/senzoncekana\/CV Personal Assistant\/xis.ai Assessment - Measure It\/label-studio-data\/media\/upload\/4\/39b783f7-card_003.jpg"
+    },
+    {
+      "width": 4160,
+      "height": 3120,
+      "id": 3,
+      "file_name": "..\/..\/..\/..\/..\/..\/Users\/senzoncekana\/CV Personal Assistant\/xis.ai Assessment - Measure It\/label-studio-data\/media\/upload\/4\/2c8fbf21-card_004.jpg"
+    },
+    {
+      "width": 4160,
+      "height": 3120,
+      "id": 4,
+      "file_name": "..\/..\/..\/..\/..\/..\/Users\/senzoncekana\/CV Personal Assistant\/xis.ai Assessment - Measure It\/label-studio-data\/media\/upload\/4\/ec0a77e3-card_005.jpg"
+    },
+    {
+      "width": 4160,
+      "height": 3120,
+      "id": 5,
+      "file_name": "..\/..\/..\/..\/..\/..\/Users\/senzoncekana\/CV Personal Assistant\/xis.ai Assessment - Measure It\/label-studio-data\/media\/upload\/4\/954014de-card_006.jpg"
+    },
+    {
+      "width": 4160,
+      "height": 3120,
+      "id": 6,
+      "file_name": "..\/..\/..\/..\/..\/..\/Users\/senzoncekana\/CV Personal Assistant\/xis.ai Assessment - Measure It\/label-studio-data\/media\/upload\/4\/117f9490-card_007.jpg"
+    },
+    {
+      "width": 4160,
+      "height": 3120,
+      "id": 7,
+      "file_name": "..\/..\/..\/..\/..\/..\/Users\/senzoncekana\/CV Personal Assistant\/xis.ai Assessment - Measure It\/label-studio-data\/media\/upload\/4\/ebd917bb-card_008.jpg"
+    },
+    {
+      "width": 4160,
+      "height": 3120,
+      "id": 8,
+      "file_name": "..\/..\/..\/..\/..\/..\/Users\/senzoncekana\/CV Personal Assistant\/xis.ai Assessment - Measure It\/label-studio-data\/media\/upload\/4\/982b61c8-card_009.jpg"
+    },
+    {
+      "width": 4160,
+      "height": 3120,
+      "id": 9,
+      "file_name": "..\/..\/..\/..\/..\/..\/Users\/senzoncekana\/CV Personal Assistant\/xis.ai Assessment - Measure It\/label-studio-data\/media\/upload\/4\/e41cd4d5-card_010.jpg"
+    },
+    {
+      "width": 4160,
+      "height": 3120,
+      "id": 10,
+      "file_name": "..\/..\/..\/..\/..\/..\/Users\/senzoncekana\/CV Personal Assistant\/xis.ai Assessment - Measure It\/label-studio-data\/media\/upload\/4\/c5475b7e-card_011.jpg"
+    },
+    {
+      "width": 4160,
+      "height": 3120,
+      "id": 11,
+      "file_name": "..\/..\/..\/..\/..\/..\/Users\/senzoncekana\/CV Personal Assistant\/xis.ai Assessment - Measure It\/label-studio-data\/media\/upload\/4\/9f11878f-card_012.jpg"
+    },
+    {
+      "width": 4160,
+      "height": 3120,
+      "id": 12,
+      "file_name": "..\/..\/..\/..\/..\/..\/Users\/senzoncekana\/CV Personal Assistant\/xis.ai Assessment - Measure It\/label-studio-data\/media\/upload\/4\/27bbf5b9-card_013.jpg"
+    },
+    {
+      "width": 4160,
+      "height": 3120,
+      "id": 13,
+      "file_name": "..\/..\/..\/..\/..\/..\/Users\/senzoncekana\/CV Personal Assistant\/xis.ai Assessment - Measure It\/label-studio-data\/media\/upload\/4\/98f20038-card_014.jpg"
+    },
+    {
+      "width": 4160,
+      "height": 3120,
+      "id": 14,
+      "file_name": "..\/..\/..\/..\/..\/..\/Users\/senzoncekana\/CV Personal Assistant\/xis.ai Assessment - Measure It\/label-studio-data\/media\/upload\/4\/354834ce-card_015.jpg"
+    },
+    {
+      "width": 4160,
+      "height": 3120,
+      "id": 15,
+      "file_name": "..\/..\/..\/..\/..\/..\/Users\/senzoncekana\/CV Personal Assistant\/xis.ai Assessment - Measure It\/label-studio-data\/media\/upload\/4\/75efdc8c-card_016.jpg"
+    },
+    {
+      "width": 4160,
+      "height": 3120,
+      "id": 16,
+      "file_name": "..\/..\/..\/..\/..\/..\/Users\/senzoncekana\/CV Personal Assistant\/xis.ai Assessment - Measure It\/label-studio-data\/media\/upload\/4\/c9e9d745-card_017.jpg"
+    },
+    {
+      "width": 4160,
+      "height": 3120,
+      "id": 17,
+      "file_name": "..\/..\/..\/..\/..\/..\/Users\/senzoncekana\/CV Personal Assistant\/xis.ai Assessment - Measure It\/label-studio-data\/media\/upload\/4\/e4eebcdb-card_018.jpg"
+    },
+    {
+      "width": 4160,
+      "height": 3120,
+      "id": 18,
+      "file_name": "..\/..\/..\/..\/..\/..\/Users\/senzoncekana\/CV Personal Assistant\/xis.ai Assessment - Measure It\/label-studio-data\/media\/upload\/4\/b5973b02-card_019.jpg"
+    },
+    {
+      "width": 4160,
+      "height": 3120,
+      "id": 19,
+      "file_name": "..\/..\/..\/..\/..\/..\/Users\/senzoncekana\/CV Personal Assistant\/xis.ai Assessment - Measure It\/label-studio-data\/media\/upload\/4\/bc2727f9-card_020.jpg"
+    },
+    {
+      "width": 4160,
+      "height": 3120,
+      "id": 20,
+      "file_name": "..\/..\/..\/..\/..\/..\/Users\/senzoncekana\/CV Personal Assistant\/xis.ai Assessment - Measure It\/label-studio-data\/media\/upload\/4\/5cb15b3c-card_021.jpg"
+    },
+    {
+      "width": 4160,
+      "height": 3120,
+      "id": 21,
+      "file_name": "..\/..\/..\/..\/..\/..\/Users\/senzoncekana\/CV Personal Assistant\/xis.ai Assessment - Measure It\/label-studio-data\/media\/upload\/4\/ed40930d-card_022.jpg"
+    },
+    {
+      "width": 4160,
+      "height": 3120,
+      "id": 22,
+      "file_name": "..\/..\/..\/..\/..\/..\/Users\/senzoncekana\/CV Personal Assistant\/xis.ai Assessment - Measure It\/label-studio-data\/media\/upload\/4\/0f3f185a-card_023.jpg"
+    },
+    {
+      "width": 4160,
+      "height": 3120,
+      "id": 23,
+      "file_name": "..\/..\/..\/..\/..\/..\/Users\/senzoncekana\/CV Personal Assistant\/xis.ai Assessment - Measure It\/label-studio-data\/media\/upload\/4\/6fff80a2-card_024.jpg"
+    },
+    {
+      "width": 4160,
+      "height": 3120,
+      "id": 24,
+      "file_name": "..\/..\/..\/..\/..\/..\/Users\/senzoncekana\/CV Personal Assistant\/xis.ai Assessment - Measure It\/label-studio-data\/media\/upload\/4\/6b6d7ac4-card_025.jpg"
+    },
+    {
+      "width": 4160,
+      "height": 3120,
+      "id": 25,
+      "file_name": "..\/..\/..\/..\/..\/..\/Users\/senzoncekana\/CV Personal Assistant\/xis.ai Assessment - Measure It\/label-studio-data\/media\/upload\/4\/4c7ed6cd-card_026.jpg"
+    },
+    {
+      "width": 4160,
+      "height": 3120,
+      "id": 26,
+      "file_name": "..\/..\/..\/..\/..\/..\/Users\/senzoncekana\/CV Personal Assistant\/xis.ai Assessment - Measure It\/label-studio-data\/media\/upload\/4\/fdc13d24-card_027.jpg"
+    },
+    {
+      "width": 4160,
+      "height": 3120,
+      "id": 27,
+      "file_name": "..\/..\/..\/..\/..\/..\/Users\/senzoncekana\/CV Personal Assistant\/xis.ai Assessment - Measure It\/label-studio-data\/media\/upload\/4\/3dbc4c1d-card_028.jpg"
+    },
+    {
+      "width": 4160,
+      "height": 3120,
+      "id": 28,
+      "file_name": "..\/..\/..\/..\/..\/..\/Users\/senzoncekana\/CV Personal Assistant\/xis.ai Assessment - Measure It\/label-studio-data\/media\/upload\/4\/2bc7c1db-card_029.jpg"
+    },
+    {
+      "width": 4160,
+      "height": 3120,
+      "id": 29,
+      "file_name": "..\/..\/..\/..\/..\/..\/Users\/senzoncekana\/CV Personal Assistant\/xis.ai Assessment - Measure It\/label-studio-data\/media\/upload\/4\/8dad9874-card_030.jpg"
+    },
+    {
+      "width": 4160,
+      "height": 3120,
+      "id": 30,
+      "file_name": "..\/..\/..\/..\/..\/..\/Users\/senzoncekana\/CV Personal Assistant\/xis.ai Assessment - Measure It\/label-studio-data\/media\/upload\/4\/2abc4623-card_031.jpg"
+    },
+    {
+      "width": 4160,
+      "height": 3120,
+      "id": 31,
+      "file_name": "..\/..\/..\/..\/..\/..\/Users\/senzoncekana\/CV Personal Assistant\/xis.ai Assessment - Measure It\/label-studio-data\/media\/upload\/4\/39af62af-card_032.jpg"
+    },
+    {
+      "width": 4160,
+      "height": 3120,
+      "id": 32,
+      "file_name": "..\/..\/..\/..\/..\/..\/Users\/senzoncekana\/CV Personal Assistant\/xis.ai Assessment - Measure It\/label-studio-data\/media\/upload\/4\/29b4ae6a-card_033.jpg"
+    },
+    {
+      "width": 4160,
+      "height": 3120,
+      "id": 33,
+      "file_name": "..\/..\/..\/..\/..\/..\/Users\/senzoncekana\/CV Personal Assistant\/xis.ai Assessment - Measure It\/label-studio-data\/media\/upload\/4\/dca16a25-card_034.jpg"
+    },
+    {
+      "width": 4160,
+      "height": 3120,
+      "id": 34,
+      "file_name": "..\/..\/..\/..\/..\/..\/Users\/senzoncekana\/CV Personal Assistant\/xis.ai Assessment - Measure It\/label-studio-data\/media\/upload\/4\/e3033ed6-card_035.jpg"
+    },
+    {
+      "width": 4160,
+      "height": 3120,
+      "id": 35,
+      "file_name": "..\/..\/..\/..\/..\/..\/Users\/senzoncekana\/CV Personal Assistant\/xis.ai Assessment - Measure It\/label-studio-data\/media\/upload\/4\/c1106de7-card_036.jpg"
+    },
+    {
+      "width": 4160,
+      "height": 3120,
+      "id": 36,
+      "file_name": "..\/..\/..\/..\/..\/..\/Users\/senzoncekana\/CV Personal Assistant\/xis.ai Assessment - Measure It\/label-studio-data\/media\/upload\/4\/a7f185d2-card_037.jpg"
+    },
+    {
+      "width": 4160,
+      "height": 3120,
+      "id": 37,
+      "file_name": "..\/..\/..\/..\/..\/..\/Users\/senzoncekana\/CV Personal Assistant\/xis.ai Assessment - Measure It\/label-studio-data\/media\/upload\/4\/a8636007-card_038.jpg"
+    },
+    {
+      "width": 4160,
+      "height": 3120,
+      "id": 38,
+      "file_name": "..\/..\/..\/..\/..\/..\/Users\/senzoncekana\/CV Personal Assistant\/xis.ai Assessment - Measure It\/label-studio-data\/media\/upload\/4\/7b32ed7d-card_039.jpg"
+    },
+    {
+      "width": 4160,
+      "height": 3120,
+      "id": 39,
+      "file_name": "..\/..\/..\/..\/..\/..\/Users\/senzoncekana\/CV Personal Assistant\/xis.ai Assessment - Measure It\/label-studio-data\/media\/upload\/4\/c6d70088-card_040.jpg"
+    },
+    {
+      "width": 4160,
+      "height": 3120,
+      "id": 40,
+      "file_name": "..\/..\/..\/..\/..\/..\/Users\/senzoncekana\/CV Personal Assistant\/xis.ai Assessment - Measure It\/label-studio-data\/media\/upload\/4\/d039508a-card_041.jpg"
+    },
+    {
+      "width": 4160,
+      "height": 3120,
+      "id": 41,
+      "file_name": "..\/..\/..\/..\/..\/..\/Users\/senzoncekana\/CV Personal Assistant\/xis.ai Assessment - Measure It\/label-studio-data\/media\/upload\/4\/7da228b5-card_042.jpg"
+    },
+    {
+      "width": 4160,
+      "height": 3120,
+      "id": 42,
+      "file_name": "..\/..\/..\/..\/..\/..\/Users\/senzoncekana\/CV Personal Assistant\/xis.ai Assessment - Measure It\/label-studio-data\/media\/upload\/4\/136c4f68-card_043.jpg"
+    },
+    {
+      "width": 4160,
+      "height": 3120,
+      "id": 43,
+      "file_name": "..\/..\/..\/..\/..\/..\/Users\/senzoncekana\/CV Personal Assistant\/xis.ai Assessment - Measure It\/label-studio-data\/media\/upload\/4\/91e2c87c-card_044.jpg"
+    },
+    {
+      "width": 4160,
+      "height": 3120,
+      "id": 44,
+      "file_name": "..\/..\/..\/..\/..\/..\/Users\/senzoncekana\/CV Personal Assistant\/xis.ai Assessment - Measure It\/label-studio-data\/media\/upload\/4\/c45ed269-card_045.jpg"
+    },
+    {
+      "width": 4160,
+      "height": 3120,
+      "id": 45,
+      "file_name": "..\/..\/..\/..\/..\/..\/Users\/senzoncekana\/CV Personal Assistant\/xis.ai Assessment - Measure It\/label-studio-data\/media\/upload\/4\/82d379a7-card_046.jpg"
+    },
+    {
+      "width": 4160,
+      "height": 3120,
+      "id": 46,
+      "file_name": "..\/..\/..\/..\/..\/..\/Users\/senzoncekana\/CV Personal Assistant\/xis.ai Assessment - Measure It\/label-studio-data\/media\/upload\/4\/50fae733-card_047.jpg"
+    },
+    {
+      "width": 4160,
+      "height": 3120,
+      "id": 47,
+      "file_name": "..\/..\/..\/..\/..\/..\/Users\/senzoncekana\/CV Personal Assistant\/xis.ai Assessment - Measure It\/label-studio-data\/media\/upload\/4\/3b0cb1a4-card_048.jpg"
+    },
+    {
+      "width": 4160,
+      "height": 3120,
+      "id": 48,
+      "file_name": "..\/..\/..\/..\/..\/..\/Users\/senzoncekana\/CV Personal Assistant\/xis.ai Assessment - Measure It\/label-studio-data\/media\/upload\/4\/255fa162-card_049.jpg"
+    },
+    {
+      "width": 4160,
+      "height": 3120,
+      "id": 49,
+      "file_name": "..\/..\/..\/..\/..\/..\/Users\/senzoncekana\/CV Personal Assistant\/xis.ai Assessment - Measure It\/label-studio-data\/media\/upload\/4\/c394ee11-card_050.jpg"
+    },
+    {
+      "width": 4160,
+      "height": 3120,
+      "id": 50,
+      "file_name": "..\/..\/..\/..\/..\/..\/Users\/senzoncekana\/CV Personal Assistant\/xis.ai Assessment - Measure It\/label-studio-data\/media\/upload\/4\/fe55d93e-card_051.jpg"
+    },
+    {
+      "width": 4160,
+      "height": 3120,
+      "id": 51,
+      "file_name": "..\/..\/..\/..\/..\/..\/Users\/senzoncekana\/CV Personal Assistant\/xis.ai Assessment - Measure It\/label-studio-data\/media\/upload\/4\/b261d9cd-card_052.jpg"
+    },
+    {
+      "width": 4160,
+      "height": 3120,
+      "id": 52,
+      "file_name": "..\/..\/..\/..\/..\/..\/Users\/senzoncekana\/CV Personal Assistant\/xis.ai Assessment - Measure It\/label-studio-data\/media\/upload\/4\/eeb539a5-card_053.jpg"
+    },
+    {
+      "width": 4160,
+      "height": 3120,
+      "id": 53,
+      "file_name": "..\/..\/..\/..\/..\/..\/Users\/senzoncekana\/CV Personal Assistant\/xis.ai Assessment - Measure It\/label-studio-data\/media\/upload\/4\/850f5eea-card_054.jpg"
+    },
+    {
+      "width": 4160,
+      "height": 3120,
+      "id": 54,
+      "file_name": "..\/..\/..\/..\/..\/..\/Users\/senzoncekana\/CV Personal Assistant\/xis.ai Assessment - Measure It\/label-studio-data\/media\/upload\/4\/681c374e-card_055.jpg"
+    },
+    {
+      "width": 4160,
+      "height": 3120,
+      "id": 55,
+      "file_name": "..\/..\/..\/..\/..\/..\/Users\/senzoncekana\/CV Personal Assistant\/xis.ai Assessment - Measure It\/label-studio-data\/media\/upload\/4\/810cc893-card_056.jpg"
+    },
+    {
+      "width": 4160,
+      "height": 3120,
+      "id": 56,
+      "file_name": "..\/..\/..\/..\/..\/..\/Users\/senzoncekana\/CV Personal Assistant\/xis.ai Assessment - Measure It\/label-studio-data\/media\/upload\/4\/f8167474-card_057.jpg"
+    },
+    {
+      "width": 4160,
+      "height": 3120,
+      "id": 57,
+      "file_name": "..\/..\/..\/..\/..\/..\/Users\/senzoncekana\/CV Personal Assistant\/xis.ai Assessment - Measure It\/label-studio-data\/media\/upload\/4\/42b4a538-card_058.jpg"
+    },
+    {
+      "width": 4160,
+      "height": 3120,
+      "id": 58,
+      "file_name": "..\/..\/..\/..\/..\/..\/Users\/senzoncekana\/CV Personal Assistant\/xis.ai Assessment - Measure It\/label-studio-data\/media\/upload\/4\/2a753489-card_059.jpg"
+    },
+    {
+      "width": 4160,
+      "height": 3120,
+      "id": 59,
+      "file_name": "..\/..\/..\/..\/..\/..\/Users\/senzoncekana\/CV Personal Assistant\/xis.ai Assessment - Measure It\/label-studio-data\/media\/upload\/4\/6e7eb733-card_060.jpg"
+    },
+    {
+      "width": 4160,
+      "height": 3120,
+      "id": 60,
+      "file_name": "..\/..\/..\/..\/..\/..\/Users\/senzoncekana\/CV Personal Assistant\/xis.ai Assessment - Measure It\/label-studio-data\/media\/upload\/4\/7fccbb03-card_061.jpg"
+    },
+    {
+      "width": 4160,
+      "height": 3120,
+      "id": 61,
+      "file_name": "..\/..\/..\/..\/..\/..\/Users\/senzoncekana\/CV Personal Assistant\/xis.ai Assessment - Measure It\/label-studio-data\/media\/upload\/4\/93423ee5-card_062.jpg"
+    },
+    {
+      "width": 4160,
+      "height": 3120,
+      "id": 62,
+      "file_name": "..\/..\/..\/..\/..\/..\/Users\/senzoncekana\/CV Personal Assistant\/xis.ai Assessment - Measure It\/label-studio-data\/media\/upload\/4\/5a1b59b8-card_063.jpg"
+    },
+    {
+      "width": 4160,
+      "height": 3120,
+      "id": 63,
+      "file_name": "..\/..\/..\/..\/..\/..\/Users\/senzoncekana\/CV Personal Assistant\/xis.ai Assessment - Measure It\/label-studio-data\/media\/upload\/4\/428a7f49-card_064.jpg"
+    },
+    {
+      "width": 4160,
+      "height": 3120,
+      "id": 64,
+      "file_name": "..\/..\/..\/..\/..\/..\/Users\/senzoncekana\/CV Personal Assistant\/xis.ai Assessment - Measure It\/label-studio-data\/media\/upload\/4\/d28cdab3-card_065.jpg"
+    },
+    {
+      "width": 4160,
+      "height": 3120,
+      "id": 65,
+      "file_name": "..\/..\/..\/..\/..\/..\/Users\/senzoncekana\/CV Personal Assistant\/xis.ai Assessment - Measure It\/label-studio-data\/media\/upload\/4\/3a0c6024-card_066.jpg"
+    },
+    {
+      "width": 4160,
+      "height": 3120,
+      "id": 66,
+      "file_name": "..\/..\/..\/..\/..\/..\/Users\/senzoncekana\/CV Personal Assistant\/xis.ai Assessment - Measure It\/label-studio-data\/media\/upload\/4\/522bafd9-card_067.jpg"
+    },
+    {
+      "width": 4160,
+      "height": 3120,
+      "id": 67,
+      "file_name": "..\/..\/..\/..\/..\/..\/Users\/senzoncekana\/CV Personal Assistant\/xis.ai Assessment - Measure It\/label-studio-data\/media\/upload\/4\/9c51992c-card_068.jpg"
+    },
+    {
+      "width": 4160,
+      "height": 3120,
+      "id": 68,
+      "file_name": "..\/..\/..\/..\/..\/..\/Users\/senzoncekana\/CV Personal Assistant\/xis.ai Assessment - Measure It\/label-studio-data\/media\/upload\/4\/b29f7e44-card_069.jpg"
+    },
+    {
+      "width": 4160,
+      "height": 3120,
+      "id": 69,
+      "file_name": "..\/..\/..\/..\/..\/..\/Users\/senzoncekana\/CV Personal Assistant\/xis.ai Assessment - Measure It\/label-studio-data\/media\/upload\/4\/6a76e699-card_070.jpg"
+    },
+    {
+      "width": 4160,
+      "height": 3120,
+      "id": 70,
+      "file_name": "..\/..\/..\/..\/..\/..\/Users\/senzoncekana\/CV Personal Assistant\/xis.ai Assessment - Measure It\/label-studio-data\/media\/upload\/4\/1ba1ed32-card_071.jpg"
+    },
+    {
+      "width": 4160,
+      "height": 3120,
+      "id": 71,
+      "file_name": "..\/..\/..\/..\/..\/..\/Users\/senzoncekana\/CV Personal Assistant\/xis.ai Assessment - Measure It\/label-studio-data\/media\/upload\/4\/fac0cecd-card_072.jpg"
+    },
+    {
+      "width": 4160,
+      "height": 3120,
+      "id": 72,
+      "file_name": "..\/..\/..\/..\/..\/..\/Users\/senzoncekana\/CV Personal Assistant\/xis.ai Assessment - Measure It\/label-studio-data\/media\/upload\/4\/383b18f7-card_073.jpg"
+    },
+    {
+      "width": 4160,
+      "height": 3120,
+      "id": 73,
+      "file_name": "..\/..\/..\/..\/..\/..\/Users\/senzoncekana\/CV Personal Assistant\/xis.ai Assessment - Measure It\/label-studio-data\/media\/upload\/4\/966653b8-card_074.jpg"
+    },
+    {
+      "width": 4160,
+      "height": 3120,
+      "id": 74,
+      "file_name": "..\/..\/..\/..\/..\/..\/Users\/senzoncekana\/CV Personal Assistant\/xis.ai Assessment - Measure It\/label-studio-data\/media\/upload\/4\/d6275540-card_075.jpg"
+    },
+    {
+      "width": 4160,
+      "height": 3120,
+      "id": 75,
+      "file_name": "..\/..\/..\/..\/..\/..\/Users\/senzoncekana\/CV Personal Assistant\/xis.ai Assessment - Measure It\/label-studio-data\/media\/upload\/4\/e6fffb25-card_076.jpg"
+    },
+    {
+      "width": 4160,
+      "height": 3120,
+      "id": 76,
+      "file_name": "..\/..\/..\/..\/..\/..\/Users\/senzoncekana\/CV Personal Assistant\/xis.ai Assessment - Measure It\/label-studio-data\/media\/upload\/4\/ba7ea616-card_077.jpg"
+    },
+    {
+      "width": 4160,
+      "height": 3120,
+      "id": 77,
+      "file_name": "..\/..\/..\/..\/..\/..\/Users\/senzoncekana\/CV Personal Assistant\/xis.ai Assessment - Measure It\/label-studio-data\/media\/upload\/4\/46877ab2-card_078.jpg"
+    },
+    {
+      "width": 4160,
+      "height": 3120,
+      "id": 78,
+      "file_name": "..\/..\/..\/..\/..\/..\/Users\/senzoncekana\/CV Personal Assistant\/xis.ai Assessment - Measure It\/label-studio-data\/media\/upload\/4\/eb103e55-card_079.jpg"
+    },
+    {
+      "width": 4160,
+      "height": 3120,
+      "id": 79,
+      "file_name": "..\/..\/..\/..\/..\/..\/Users\/senzoncekana\/CV Personal Assistant\/xis.ai Assessment - Measure It\/label-studio-data\/media\/upload\/4\/c4adcb06-card_080.jpg"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "card"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 0,
+      "category_id": 0,
+      "segmentation": [
+        [
+          1972.1231766612643,
+          1329.9189627228525,
+          1992.3500810372773,
+          2159.2220421393845,
+          3317.2123176661266,
+          2098.541329011345,
+          3231.247974068072,
+          1294.52188006483
+        ]
+      ],
+      "bbox": [
+        1972.1231766612643,
+        1294.52188006483,
+        1345.0891410048623,
+        864.7001620745546
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 1057671.7141813915
+    },
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 0,
+      "segmentation": [
+        [
+          2063.144246353322,
+          1152.933549432739,
+          2118.768233387358,
+          2022.6904376012963,
+          3595.332252836305,
+          1946.8395461912478,
+          3393.0632090761756,
+          1112.4797406807133
+        ]
+      ],
+      "bbox": [
+        2063.144246353322,
+        1112.4797406807133,
+        1532.188006482983,
+        910.2106969205829
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 1203142.1680164123
+    },
+    {
+      "id": 2,
+      "image_id": 2,
+      "category_id": 0,
+      "segmentation": [
+        [
+          1870.9886547811996,
+          1456.3371150729336,
+          1921.5559157212315,
+          2027.7471636952998,
+          2831.7666126418153,
+          1951.8962722852511,
+          2766.029173419773,
+          1400.7131280388978
+        ]
+      ],
+      "bbox": [
+        1870.9886547811996,
+        1400.7131280388978,
+        960.7779578606157,
+        627.034035656402
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 510463.468080244
+    },
+    {
+      "id": 3,
+      "image_id": 3,
+      "category_id": 0,
+      "segmentation": [
+        [
+          1896.2722852512156,
+          1451.2803889789302,
+          1946.839546191248,
+          2007.5202593192867,
+          2831.7666126418153,
+          1931.6693679092382,
+          2766.029173419773,
+          1385.542949756888
+        ]
+      ],
+      "bbox": [
+        1896.2722852512156,
+        1385.542949756888,
+        935.4943273905997,
+        621.9773095623987
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 487692.9567179512
+    },
+    {
+      "id": 4,
+      "image_id": 4,
+      "category_id": 0,
+      "segmentation": [
+        [
+          1886.1588330632092,
+          1415.8833063209076,
+          1936.7260940032418,
+          1962.0097244732578,
+          2811.5397082658023,
+          1891.2155591572123,
+          2750.8589951377635,
+          1355.2025931928686
+        ]
+      ],
+      "bbox": [
+        1886.1588330632092,
+        1355.2025931928686,
+        925.3808752025932,
+        606.8071312803893
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 474255.6701139249
+    },
+    {
+      "id": 5,
+      "image_id": 5,
+      "category_id": 0,
+      "segmentation": [
+        [
+          1870.9886547811998,
+          1334.9756888168558,
+          1916.4991896272286,
+          1911.4424635332255,
+          2816.596434359805,
+          1835.5915721231768,
+          2745.80226904376,
+          1279.35170178282
+        ]
+      ],
+      "bbox": [
+        1870.9886547811998,
+        1279.35170178282,
+        945.607779578605,
+        632.0907617504054
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 506436.11767085455
+    },
+    {
+      "id": 6,
+      "image_id": 6,
+      "category_id": 0,
+      "segmentation": [
+        [
+          1860.8752025931926,
+          1299.578606158833,
+          1916.4991896272286,
+          1850.7617504051861,
+          2791.312803889789,
+          1764.7974068071312,
+          2720.5186385737443,
+          1213.6142625607781
+        ]
+      ],
+      "bbox": [
+        1860.8752025931926,
+        1213.6142625607781,
+        930.4376012965963,
+        637.147487844408
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 483435.4719994534
+    },
+    {
+      "id": 7,
+      "image_id": 7,
+      "category_id": 0,
+      "segmentation": [
+        [
+          1850.7617504051866,
+          1213.6142625607781,
+          1891.2155591572125,
+          1764.7974068071312,
+          2755.915721231767,
+          1663.6628849270667,
+          2695.235008103728,
+          1132.706645056726
+        ]
+      ],
+      "bbox": [
+        1850.7617504051866,
+        1132.706645056726,
+        905.1539708265802,
+        632.0907617504051
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 466993.65413763
+    },
+    {
+      "id": 8,
+      "image_id": 8,
+      "category_id": 0,
+      "segmentation": [
+        [
+          1840.64829821718,
+          1208.5575364667748,
+          1886.1588330632092,
+          1729.4003241491084,
+          2740.745542949757,
+          1643.4359805510535,
+          2695.235008103728,
+          1132.706645056726
+        ]
+      ],
+      "bbox": [
+        1840.64829821718,
+        1132.706645056726,
+        900.0972447325769,
+        596.6936790923824
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 444466.0623238394
+    },
+    {
+      "id": 9,
+      "image_id": 9,
+      "category_id": 0,
+      "segmentation": [
+        [
+          1795.1377633711506,
+          1218.6709886547812,
+          1830.5348460291737,
+          1774.9108589951377,
+          2720.5186385737443,
+          1694.003241491086,
+          2669.951377633711,
+          1168.1037277147489
+        ]
+      ],
+      "bbox": [
+        1795.1377633711506,
+        1168.1037277147489,
+        925.3808752025936,
+        606.8071312803888
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 480264.7326295208
+    },
+    {
+      "id": 10,
+      "image_id": 10,
+      "category_id": 0,
+      "segmentation": [
+        [
+          1744.5705024311185,
+          1284.4084278768232,
+          1785.0243111831444,
+          1840.6482982171797,
+          2680.0648298217184,
+          1769.8541329011346,
+          2634.5542949756887,
+          1223.7277147487844
+        ]
+      ],
+      "bbox": [
+        1744.5705024311185,
+        1223.7277147487844,
+        935.4943273905999,
+        616.9205834683953
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 494763.1941033229
+    },
+    {
+      "id": 11,
+      "image_id": 11,
+      "category_id": 0,
+      "segmentation": [
+        [
+          1678.8330632090763,
+          1284.4084278768232,
+          1729.400324149109,
+          1825.47811993517,
+          2609.270664505673,
+          1764.7974068071312,
+          2573.8735818476503,
+          1223.7277147487846
+        ]
+      ],
+      "bbox": [
+        1678.8330632090763,
+        1223.7277147487846,
+        930.4376012965965,
+        601.7504051863855
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 482783.4247903144
+    },
+    {
+      "id": 12,
+      "image_id": 12,
+      "category_id": 0,
+      "segmentation": [
+        [
+          1694.0032414910859,
+          1264.1815235008103,
+          1749.6272285251218,
+          1820.4213938411667,
+          2619.384116693679,
+          1734.4570502431118,
+          2568.8168557536465,
+          1208.5575364667748
+        ]
+      ],
+      "bbox": [
+        1694.0032414910859,
+        1208.5575364667748,
+        925.3808752025932,
+        611.863857374392
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 475725.9726443365
+    },
+    {
+      "id": 13,
+      "image_id": 13,
+      "category_id": 0,
+      "segmentation": [
+        [
+          1714.2301458670988,
+          1243.9546191247975,
+          1749.6272285251218,
+          1779.967585089141,
+          2604.2139384116695,
+          1704.1166936790924,
+          2558.7034035656407,
+          1193.3873581847652
+        ]
+      ],
+      "bbox": [
+        1714.2301458670988,
+        1193.3873581847652,
+        889.9837925445706,
+        586.5802269043759
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 447176.5330755543
+    },
+    {
+      "id": 14,
+      "image_id": 14,
+      "category_id": 0,
+      "segmentation": [
+        [
+          1714.2301458670988,
+          1390.5996758508913,
+          1739.5137763371151,
+          1946.8395461912478,
+          2634.5542949756887,
+          1886.158833063209,
+          2578.930307941653,
+          1340.032414910859
+        ]
+      ],
+      "bbox": [
+        1714.2301458670988,
+        1340.032414910859,
+        920.3241491085898,
+        606.8071312803888
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 487219.90286034066
+    },
+    {
+      "id": 15,
+      "image_id": 15,
+      "category_id": 0,
+      "segmentation": [
+        [
+          1724.3435980551055,
+          1446.223662884927,
+          1759.740680713128,
+          2022.6904376012963,
+          2685.121555915721,
+          1941.782820097245,
+          2609.270664505673,
+          1390.5996758508913
+        ]
+      ],
+      "bbox": [
+        1724.3435980551055,
+        1390.5996758508913,
+        960.7779578606153,
+        632.0907617504049
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 514145.61702596955
+    },
+    {
+      "id": 16,
+      "image_id": 16,
+      "category_id": 0,
+      "segmentation": [
+        [
+          1769.8541329011348,
+          1496.7909238249592,
+          1815.3646677471634,
+          2078.314424635332,
+          2766.029173419773,
+          2007.5202593192867,
+          2680.0648298217184,
+          1441.1669367909237
+        ]
+      ],
+      "bbox": [
+        1769.8541329011348,
+        1441.1669367909237,
+        996.1750405186383,
+        637.1474878444085
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 538169.0818489632
+    },
+    {
+      "id": 17,
+      "image_id": 17,
+      "category_id": 0,
+      "segmentation": [
+        [
+          1795.1377633711506,
+          1532.1880064829825,
+          1830.5348460291737,
+          2118.768233387358,
+          2786.256077795786,
+          2053.030794165316,
+          2710.4051863857376,
+          1486.6774716369528
+        ]
+      ],
+      "bbox": [
+        1795.1377633711506,
+        1486.6774716369528,
+        991.1183144246354,
+        632.0907617504054
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 542375.4256098811
+    },
+    {
+      "id": 18,
+      "image_id": 18,
+      "category_id": 0,
+      "segmentation": [
+        [
+          1815.3646677471634,
+          1567.585089141005,
+          1865.931928687196,
+          2209.7893030794166,
+          2872.220421393841,
+          2128.8816855753644,
+          2776.1426256077793,
+          1506.9043760129657
+        ]
+      ],
+      "bbox": [
+        1815.3646677471634,
+        1506.9043760129657,
+        1056.8557536466778,
+        702.8849270664509
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 626873.0727706887
+    },
+    {
+      "id": 19,
+      "image_id": 19,
+      "category_id": 0,
+      "segmentation": [
+        [
+          1785.0243111831444,
+          1425.9967585089141,
+          1840.64829821718,
+          2063.144246353322,
+          2862.106969205835,
+          1962.0097244732578,
+          2750.8589951377635,
+          1360.259319286872
+        ]
+      ],
+      "bbox": [
+        1785.0243111831444,
+        1360.259319286872,
+        1077.0826580226906,
+        702.8849270664502
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 622474.9504188467
+    },
+    {
+      "id": 20,
+      "image_id": 20,
+      "category_id": 0,
+      "segmentation": [
+        [
+          1754.6839546191245,
+          1420.9400324149108,
+          1790.081037277148,
+          1982.2366288492706,
+          2710.4051863857376,
+          1896.2722852512156,
+          2614.327390599676,
+          1350.1458670988654
+        ]
+      ],
+      "bbox": [
+        1754.6839546191245,
+        1350.1458670988654,
+        955.7212317666131,
+        632.0907617504051
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 497946.71871265024
+    },
+    {
+      "id": 21,
+      "image_id": 21,
+      "category_id": 0,
+      "segmentation": [
+        [
+          1779.967585089141,
+          1299.578606158833,
+          1815.3646677471634,
+          1855.8184764991895,
+          2720.5186385737443,
+          1790.0810372771473,
+          2654.781199351702,
+          1249.0113452188007
+        ]
+      ],
+      "bbox": [
+        1779.967585089141,
+        1249.0113452188007,
+        940.5510534846032,
+        606.8071312803888
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 491234.46803033445
+    },
+    {
+      "id": 22,
+      "image_id": 22,
+      "category_id": 0,
+      "segmentation": [
+        [
+          1835.5915721231768,
+          1183.2739059967587,
+          1865.9319286871962,
+          1704.1166936790924,
+          2715.4619124797414,
+          1648.4927066450566,
+          2644.6677471636954,
+          1147.876823338736
+        ]
+      ],
+      "bbox": [
+        1835.5915721231768,
+        1147.876823338736,
+        879.8703403565646,
+        556.2398703403564
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 425850.7537648836
+    },
+    {
+      "id": 23,
+      "image_id": 23,
+      "category_id": 0,
+      "segmentation": [
+        [
+          1850.7617504051866,
+          1127.6499189627227,
+          1876.0453808752025,
+          1623.2090761750405,
+          2705.348460291734,
+          1572.6418152350082,
+          2644.6677471636954,
+          1097.3095623987033
+        ]
+      ],
+      "bbox": [
+        1850.7617504051866,
+        1097.3095623987033,
+        854.5867098865476,
+        525.8995137763372
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 395728.7297505317
+    },
+    {
+      "id": 24,
+      "image_id": 24,
+      "category_id": 0,
+      "segmentation": [
+        [
+          1860.8752025931926,
+          1092.2528363047004,
+          1896.2722852512156,
+          1572.6418152350082,
+          2700.2917341977313,
+          1527.131280388979,
+          2634.5542949756887,
+          1051.7990275526743
+        ]
+      ],
+      "bbox": [
+        1860.8752025931926,
+        1051.7990275526743,
+        839.4165316045387,
+        520.8427876823339
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 379133.4890159685
+    },
+    {
+      "id": 25,
+      "image_id": 25,
+      "category_id": 0,
+      "segmentation": [
+        [
+          1855.8184764991897,
+          1132.706645056726,
+          1896.2722852512156,
+          1628.265802269044,
+          2720.5186385737443,
+          1567.585089141005,
+          2669.951377633711,
+          1082.1393841166937
+        ]
+      ],
+      "bbox": [
+        1855.8184764991897,
+        1082.1393841166937,
+        864.7001620745546,
+        546.1264181523502
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 404345.9811026845
+    },
+    {
+      "id": 26,
+      "image_id": 26,
+      "category_id": 0,
+      "segmentation": [
+        [
+          1724.3435980551055,
+          1279.35170178282,
+          1764.7974068071314,
+          1805.2512155591571,
+          2604.2139384116695,
+          1724.3435980551055,
+          2543.5332252836306,
+          1233.8411669367908
+        ]
+      ],
+      "bbox": [
+        1724.3435980551055,
+        1233.8411669367908,
+        879.8703403565639,
+        571.4100486223663
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 424648.94126176555
+    },
+    {
+      "id": 27,
+      "image_id": 27,
+      "category_id": 0,
+      "segmentation": [
+        [
+          1744.5705024311185,
+          1334.9756888168558,
+          1774.9108589951377,
+          1840.64829821718,
+          2599.1572123176666,
+          1759.7406807131279,
+          2543.5332252836306,
+          1284.4084278768232
+        ]
+      ],
+      "bbox": [
+        1744.5705024311185,
+        1284.4084278768232,
+        854.5867098865481,
+        556.2398703403567
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 400919.53694485594
+    },
+    {
+      "id": 28,
+      "image_id": 28,
+      "category_id": 0,
+      "segmentation": [
+        [
+          1785.0243111831444,
+          1228.7844408427877,
+          1815.3646677471634,
+          1729.4003241491084,
+          2614.327390599676,
+          1658.6061588330633,
+          2568.8168557536465,
+          1183.2739059967587
+        ]
+      ],
+      "bbox": [
+        1785.0243111831444,
+        1183.2739059967587,
+        829.3030794165318,
+        546.1264181523497
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 388377.2170984708
+    },
+    {
+      "id": 29,
+      "image_id": 29,
+      "category_id": 0,
+      "segmentation": [
+        [
+          1815.3646677471634,
+          1163.0470016207455,
+          1860.8752025931926,
+          1668.7196110210696,
+          2634.5542949756887,
+          1587.8119935170178,
+          2583.9870340356565,
+          1097.3095623987033
+        ]
+      ],
+      "bbox": [
+        1815.3646677471634,
+        1097.3095623987033,
+        819.1896272285253,
+        571.4100486223663
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 387622.88797417283
+    },
+    {
+      "id": 30,
+      "image_id": 30,
+      "category_id": 0,
+      "segmentation": [
+        [
+          1825.4781199351703,
+          1137.7633711507297,
+          1865.9319286871962,
+          1623.2090761750405,
+          2649.7244732576987,
+          1557.4716369529983,
+          2589.04376012966,
+          1072.0259319286872
+        ]
+      ],
+      "bbox": [
+        1825.4781199351703,
+        1072.0259319286872,
+        824.2463533225284,
+        551.1831442463533
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 378903.35470686015
+    },
+    {
+      "id": 31,
+      "image_id": 31,
+      "category_id": 0,
+      "segmentation": [
+        [
+          1835.5915721231768,
+          1127.6499189627227,
+          1876.0453808752025,
+          1613.0956239870338,
+          2654.781199351702,
+          1537.2447325769854,
+          2594.1004862236628,
+          1066.9692058346836
+        ]
+      ],
+      "bbox": [
+        1835.5915721231768,
+        1066.9692058346836,
+        819.1896272285253,
+        546.1264181523502
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 370746.37197292224
+    },
+    {
+      "id": 32,
+      "image_id": 32,
+      "category_id": 0,
+      "segmentation": [
+        [
+          1835.5915721231768,
+          1107.42301458671,
+          1881.1021069692058,
+          1602.9821717990276,
+          2639.6110210696925,
+          1522.0745542949755,
+          2594.1004862236628,
+          1061.9124797406807
+        ]
+      ],
+      "bbox": [
+        1835.5915721231768,
+        1061.9124797406807,
+        804.0194489465157,
+        541.0696920583468
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 365338.2157088863
+    },
+    {
+      "id": 33,
+      "image_id": 33,
+      "category_id": 0,
+      "segmentation": [
+        [
+          1855.8184764991897,
+          1087.196110210697,
+          1901.3290113452188,
+          1577.6985413290113,
+          2659.837925445705,
+          1501.8476499189628,
+          2594.1004862236628,
+          1046.742301458671
+        ]
+      ],
+      "bbox": [
+        1855.8184764991897,
+        1046.742301458671,
+        804.0194489465152,
+        530.9562398703404
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 357078.95105978847
+    },
+    {
+      "id": 34,
+      "image_id": 34,
+      "category_id": 0,
+      "segmentation": [
+        [
+          1865.9319286871962,
+          1092.2528363047004,
+          1901.3290113452188,
+          1542.3014586709885,
+          2639.6110210696925,
+          1481.6207455429496,
+          2589.04376012966,
+          1031.5721231766613
+        ]
+      ],
+      "bbox": [
+        1865.9319286871962,
+        1031.5721231766613,
+        773.6790923824963,
+        510.7293354943272
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 331457.3313124357
+    },
+    {
+      "id": 35,
+      "image_id": 35,
+      "category_id": 0,
+      "segmentation": [
+        [
+          1865.9319286871962,
+          1072.0259319286872,
+          1906.385737439222,
+          1532.1880064829825,
+          2634.5542949756887,
+          1461.3938411669367,
+          2583.9870340356565,
+          1011.3452188006481
+        ]
+      ],
+      "bbox": [
+        1865.9319286871962,
+        1011.3452188006481,
+        768.6223662884925,
+        520.8427876823343
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 332083.80804278515
+    },
+    {
+      "id": 36,
+      "image_id": 36,
+      "category_id": 0,
+      "segmentation": [
+        [
+          1886.1588330632092,
+          1188.3306320907618,
+          1926.612641815235,
+          1663.6628849270667,
+          2675.0081037277146,
+          1592.868719611021,
+          2624.4408427876824,
+          1127.6499189627227
+        ]
+      ],
+      "bbox": [
+        1886.1588330632092,
+        1127.6499189627227,
+        788.8492706645054,
+        536.012965964344
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 352565.7615533937
+    },
+    {
+      "id": 37,
+      "image_id": 37,
+      "category_id": 0,
+      "segmentation": [
+        [
+          1835.5915721231768,
+          1132.7066450567265,
+          1886.1588330632092,
+          1628.265802269044,
+          2654.781199351702,
+          1542.3014586709885,
+          2594.1004862236628,
+          1072.0259319286872
+        ]
+      ],
+      "bbox": [
+        1835.5915721231768,
+        1072.0259319286872,
+        819.1896272285253,
+        556.2398703403567
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 372817.58075489383
+    },
+    {
+      "id": 38,
+      "image_id": 38,
+      "category_id": 0,
+      "segmentation": [
+        [
+          1840.64829821718,
+          1102.3662884927069,
+          1886.1588330632092,
+          1597.9254457050245,
+          2680.0648298217184,
+          1527.131280388979,
+          2629.4975688816858,
+          1031.5721231766613
+        ]
+      ],
+      "bbox": [
+        1840.64829821718,
+        1031.5721231766613,
+        839.4165316045385,
+        566.3533225283632
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 395575.3068777928
+    },
+    {
+      "id": 39,
+      "image_id": 39,
+      "category_id": 0,
+      "segmentation": [
+        [
+          1810.3079416531607,
+          1178.2171799027556,
+          1865.9319286871962,
+          1699.059967585089,
+          2680.0648298217175,
+          1613.0956239870338,
+          2604.2139384116695,
+          1122.5931928687196
+        ]
+      ],
+      "bbox": [
+        1810.3079416531607,
+        1122.5931928687196,
+        869.7568881685568,
+        576.4667747163694
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 411224.43989713304
+    },
+    {
+      "id": 40,
+      "image_id": 40,
+      "category_id": 0,
+      "segmentation": [
+        [
+          1769.8541329011348,
+          1218.6709886547812,
+          1815.3646677471634,
+          1704.1166936790924,
+          2599.1572123176666,
+          1638.3792544570501,
+          2533.4197730956244,
+          1168.1037277147489
+        ]
+      ],
+      "bbox": [
+        1769.8541329011348,
+        1168.1037277147489,
+        829.3030794165318,
+        536.0129659643435
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 372945.43314884417
+    },
+    {
+      "id": 41,
+      "image_id": 41,
+      "category_id": 0,
+      "segmentation": [
+        [
+          1835.5915721231768,
+          1279.35170178282,
+          1881.1021069692058,
+          1795.1377633711506,
+          2685.121555915721,
+          1719.2868719611022,
+          2624.4408427876824,
+          1228.7844408427877
+        ]
+      ],
+      "bbox": [
+        1835.5915721231768,
+        1228.7844408427877,
+        849.529983792544,
+        566.3533225283629
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 404077.4910753928
+    },
+    {
+      "id": 42,
+      "image_id": 42,
+      "category_id": 0,
+      "segmentation": [
+        [
+          1825.4781199351703,
+          1284.4084278768232,
+          1876.0453808752025,
+          1810.3079416531605,
+          2735.688816855754,
+          1749.6272285251216,
+          2654.781199351702,
+          1223.7277147487844
+        ]
+      ],
+      "bbox": [
+        1825.4781199351703,
+        1223.7277147487844,
+        910.2106969205836,
+        586.5802269043761
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 448097.0703119878
+    },
+    {
+      "id": 43,
+      "image_id": 43,
+      "category_id": 0,
+      "segmentation": [
+        [
+          1825.4781199351703,
+          1259.1247974068071,
+          1865.9319286871962,
+          1815.3646677471638,
+          2760.9724473257697,
+          1749.6272285251216,
+          2690.1782820097246,
+          1198.4440842787683
+        ]
+      ],
+      "bbox": [
+        1825.4781199351703,
+        1198.4440842787683,
+        935.4943273905994,
+        616.9205834683955
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 490710.27321514394
+    },
+    {
+      "id": 44,
+      "image_id": 44,
+      "category_id": 0,
+      "segmentation": [
+        [
+          1830.5348460291737,
+          1279.35170178282,
+          1870.9886547811996,
+          1830.5348460291734,
+          2760.9724473257697,
+          1749.6272285251216,
+          2685.121555915721,
+          1213.6142625607781
+        ]
+      ],
+      "bbox": [
+        1830.5348460291737,
+        1213.6142625607781,
+        930.4376012965961,
+        616.9205834683953
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 478436.44339605235
+    },
+    {
+      "id": 45,
+      "image_id": 45,
+      "category_id": 0,
+      "segmentation": [
+        [
+          1825.4781199351703,
+          1279.35170178282,
+          1886.1588330632092,
+          1830.5348460291734,
+          2750.8589951377635,
+          1739.5137763371151,
+          2685.121555915721,
+          1223.7277147487846
+        ]
+      ],
+      "bbox": [
+        1825.4781199351703,
+        1223.7277147487846,
+        925.3808752025932,
+        606.8071312803888
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 464590.0291313911
+    },
+    {
+      "id": 46,
+      "image_id": 46,
+      "category_id": 0,
+      "segmentation": [
+        [
+          1840.64829821718,
+          1254.068071312804,
+          1891.215559157212,
+          1815.3646677471634,
+          2776.1426256077793,
+          1719.2868719611022,
+          2695.235008103728,
+          1198.4440842787683
+        ]
+      ],
+      "bbox": [
+        1840.64829821718,
+        1198.4440842787683,
+        935.4943273905994,
+        616.9205834683951
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 475585.33501099236
+    },
+    {
+      "id": 47,
+      "image_id": 47,
+      "category_id": 0,
+      "segmentation": [
+        [
+          1845.7050243111833,
+          1183.2739059967587,
+          1891.2155591572125,
+          1719.2868719611022,
+          2755.915721231767,
+          1638.3792544570501,
+          2685.121555915721,
+          1117.5364667747165
+        ]
+      ],
+      "bbox": [
+        1845.7050243111833,
+        1117.5364667747165,
+        910.2106969205836,
+        601.7504051863857
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 454515.2604882205
+    },
+    {
+      "id": 48,
+      "image_id": 48,
+      "category_id": 0,
+      "segmentation": [
+        [
+          1865.9319286871962,
+          1299.578606158833,
+          1891.2155591572125,
+          1855.8184764991895,
+          2755.915721231767,
+          1800.194489465154,
+          2710.4051863857376,
+          1274.294975688817
+        ]
+      ],
+      "bbox": [
+        1865.9319286871962,
+        1274.294975688817,
+        889.9837925445706,
+        581.5235008103725
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 463822.91476769745
+    },
+    {
+      "id": 49,
+      "image_id": 49,
+      "category_id": 0,
+      "segmentation": [
+        [
+          1876.0453808752025,
+          1375.4294975688817,
+          1906.385737439222,
+          1941.782820097245,
+          2766.029173419773,
+          1870.9886547811993,
+          2730.6320907617514,
+          1340.032414910859
+        ]
+      ],
+      "bbox": [
+        1876.0453808752025,
+        1340.032414910859,
+        889.9837925445706,
+        601.7504051863859
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 472005.4679804258
+    },
+    {
+      "id": 50,
+      "image_id": 50,
+      "category_id": 0,
+      "segmentation": [
+        [
+          1921.5559157212315,
+          1360.259319286872,
+          1946.839546191248,
+          1921.5559157212317,
+          2867.163695299838,
+          1865.9319286871962,
+          2796.3695299837927,
+          1304.6353322528364
+        ]
+      ],
+      "bbox": [
+        1921.5559157212315,
+        1304.6353322528364,
+        945.6077795786064,
+        616.9205834683953
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 506474.47338903975
+    },
+    {
+      "id": 51,
+      "image_id": 51,
+      "category_id": 0,
+      "segmentation": [
+        [
+          1951.8962722852514,
+          1446.223662884927,
+          1977.1799027552674,
+          2042.9173419773092,
+          2958.1847649918964,
+          1992.3500810372773,
+          2907.6175040518638,
+          1385.542949756888
+        ]
+      ],
+      "bbox": [
+        1951.8962722852514,
+        1385.542949756888,
+        1006.288492706645,
+        657.3743922204212
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 584822.4204009054
+    },
+    {
+      "id": 52,
+      "image_id": 52,
+      "category_id": 0,
+      "segmentation": [
+        [
+          1936.7260940032418,
+          1501.8476499189628,
+          1962.0097244732578,
+          2113.7115072933548,
+          2963.2414910858997,
+          2068.200972447326,
+          2902.560777957861,
+          1456.3371150729336
+        ]
+      ],
+      "bbox": [
+        1936.7260940032418,
+        1456.3371150729336,
+        1026.515397082658,
+        657.3743922204212
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 603744.5747053381
+    },
+    {
+      "id": 53,
+      "image_id": 53,
+      "category_id": 0,
+      "segmentation": [
+        [
+          1891.2155591572125,
+          1532.1880064829825,
+          1926.612641815235,
+          2133.9384116693673,
+          2907.6175040518638,
+          2088.427876823339,
+          2857.0502431118316,
+          1471.5072933549434
+        ]
+      ],
+      "bbox": [
+        1891.2155591572125,
+        1471.5072933549434,
+        1016.4019448946513,
+        662.4311183144239
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 595421.3838592637
+    },
+    {
+      "id": 54,
+      "image_id": 54,
+      "category_id": 0,
+      "segmentation": [
+        [
+          1825.4781199351703,
+          1557.471636952998,
+          1860.8752025931926,
+          2169.3354943273907,
+          2781.1993517017827,
+          2103.5980551053485,
+          2750.8589951377635,
+          1527.131280388979
+        ]
+      ],
+      "bbox": [
+        1825.4781199351703,
+        1527.131280388979,
+        955.7212317666124,
+        642.2042139384118
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 549905.9316134695
+    },
+    {
+      "id": 55,
+      "image_id": 55,
+      "category_id": 0,
+      "segmentation": [
+        [
+          1840.64829821718,
+          1562.5283630470017,
+          1865.9319286871962,
+          2144.0518638573744,
+          2771.0858995137764,
+          2083.3711507293356,
+          2720.5186385737443,
+          1527.131280388979
+        ]
+      ],
+      "bbox": [
+        1840.64829821718,
+        1527.131280388979,
+        930.4376012965965,
+        616.9205834683955
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 509555.7160832081
+    },
+    {
+      "id": 56,
+      "image_id": 56,
+      "category_id": 0,
+      "segmentation": [
+        [
+          1840.64829821718,
+          1557.4716369529983,
+          1881.1021069692058,
+          2133.9384116693673,
+          2786.256077795786,
+          2073.257698541329,
+          2730.632090761751,
+          1506.9043760129657
+        ]
+      ],
+      "bbox": [
+        1840.64829821718,
+        1506.9043760129657,
+        945.6077795786061,
+        627.0340356564016
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 515551.9933594074
+    },
+    {
+      "id": 57,
+      "image_id": 57,
+      "category_id": 0,
+      "segmentation": [
+        [
+          1865.9319286871962,
+          1552.414910858995,
+          1886.1588330632092,
+          2118.768233387358,
+          2786.256077795786,
+          2058.0875202593193,
+          2750.8589951377635,
+          1517.0178282009724
+        ]
+      ],
+      "bbox": [
+        1865.9319286871962,
+        1517.0178282009724,
+        920.3241491085898,
+        601.7504051863857
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 495530.30846701656
+    },
+    {
+      "id": 58,
+      "image_id": 58,
+      "category_id": 0,
+      "segmentation": [
+        [
+          1845.7050243111833,
+          1522.0745542949755,
+          1876.0453808752025,
+          2088.427876823339,
+          2776.1426256077793,
+          2047.9740680713132,
+          2720.5186385737443,
+          1486.6774716369528
+        ]
+      ],
+      "bbox": [
+        1845.7050243111833,
+        1486.6774716369528,
+        930.4376012965961,
+        601.7504051863862
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 501999.6396008292
+    },
+    {
+      "id": 59,
+      "image_id": 59,
+      "category_id": 0,
+      "segmentation": [
+        [
+          1886.1588330632092,
+          1517.0178282009724,
+          1906.385737439222,
+          2068.200972447326,
+          2791.312803889789,
+          2022.6904376012963,
+          2745.80226904376,
+          1466.45056726094
+        ]
+      ],
+      "bbox": [
+        1886.1588330632092,
+        1466.45056726094,
+        905.1539708265798,
+        601.7504051863859
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 484573.3583055977
+    },
+    {
+      "id": 60,
+      "image_id": 60,
+      "category_id": 0,
+      "segmentation": [
+        [
+          1865.9319286871962,
+          1486.6774716369528,
+          1896.2722852512156,
+          2027.7471636952998,
+          2766.029173419773,
+          1977.1799027552672,
+          2710.4051863857376,
+          1446.223662884927
+        ]
+      ],
+      "bbox": [
+        1865.9319286871962,
+        1446.223662884927,
+        900.0972447325769,
+        581.5235008103728
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 461380.93404327426
+    },
+    {
+      "id": 61,
+      "image_id": 61,
+      "category_id": 0,
+      "segmentation": [
+        [
+          1881.1021069692058,
+          1456.3371150729336,
+          1911.4424635332255,
+          1992.3500810372773,
+          2776.1426256077793,
+          1931.6693679092382,
+          2720.5186385737443,
+          1405.7698541329012
+        ]
+      ],
+      "bbox": [
+        1881.1021069692058,
+        1405.7698541329012,
+        895.0405186385735,
+        586.5802269043761
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 454796.535754906
+    },
+    {
+      "id": 62,
+      "image_id": 62,
+      "category_id": 0,
+      "segmentation": [
+        [
+          1891.2155591572125,
+          1441.1669367909237,
+          1931.6693679092384,
+          1997.4068071312804,
+          2781.1993517017827,
+          1931.6693679092382,
+          2725.575364667747,
+          1390.5996758508913
+        ]
+      ],
+      "bbox": [
+        1891.2155591572125,
+        1390.5996758508913,
+        889.9837925445702,
+        606.8071312803891
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 464730.6667647334
+    },
+    {
+      "id": 63,
+      "image_id": 63,
+      "category_id": 0,
+      "segmentation": [
+        [
+          1911.4424635332255,
+          1420.9400324149108,
+          1941.782820097245,
+          1951.8962722852511,
+          2801.426256077796,
+          1891.2155591572123,
+          2740.745542949757,
+          1365.3160453808753
+        ]
+      ],
+      "bbox": [
+        1911.4424635332255,
+        1365.3160453808753,
+        889.9837925445706,
+        586.5802269043759
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 448889.75515447
+    },
+    {
+      "id": 64,
+      "image_id": 64,
+      "category_id": 0,
+      "segmentation": [
+        [
+          1876.0453808752025,
+          1314.7487844408429,
+          1916.4991896272286,
+          1906.385737439222,
+          2862.106969205835,
+          1830.5348460291734,
+          2786.256077795786,
+          1259.1247974068071
+        ]
+      ],
+      "bbox": [
+        1876.0453808752025,
+        1259.1247974068071,
+        986.0615883306325,
+        647.260940032415
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 543423.8152402621
+    },
+    {
+      "id": 65,
+      "image_id": 65,
+      "category_id": 0,
+      "segmentation": [
+        [
+          1855.8184764991897,
+          1314.7487844408429,
+          1896.2722852512156,
+          1931.6693679092382,
+          2887.390599675851,
+          1860.8752025931929,
+          2801.426256077796,
+          1264.1815235008103
+        ]
+      ],
+      "bbox": [
+        1855.8184764991897,
+        1264.1815235008103,
+        1031.572123176661,
+        667.4878444084279
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 591445.1744074561
+    },
+    {
+      "id": 66,
+      "image_id": 66,
+      "category_id": 0,
+      "segmentation": [
+        [
+          1886.1588330632092,
+          1334.9756888168558,
+          1941.782820097245,
+          1972.1231766612643,
+          2932.90113452188,
+          1906.385737439222,
+          2862.106969205835,
+          1294.52188006483
+        ]
+      ],
+      "bbox": [
+        1886.1588330632092,
+        1294.52188006483,
+        1046.742301458671,
+        677.6012965964344
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 617578.2037306037
+    },
+    {
+      "id": 67,
+      "image_id": 67,
+      "category_id": 0,
+      "segmentation": [
+        [
+          1881.1021069692058,
+          1319.805510534846,
+          1911.4424635332255,
+          1951.8962722852511,
+          2937.9578606158834,
+          1886.158833063209,
+          2857.0502431118316,
+          1274.294975688817
+        ]
+      ],
+      "bbox": [
+        1881.1021069692058,
+        1274.294975688817,
+        1056.8557536466776,
+        677.6012965964342
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 625837.4683797015
+    },
+    {
+      "id": 68,
+      "image_id": 68,
+      "category_id": 0,
+      "segmentation": [
+        [
+          1855.8184764991897,
+          1299.578606158833,
+          1896.2722852512156,
+          1926.612641815235,
+          2907.6175040518638,
+          1855.8184764991895,
+          2851.9935170178283,
+          1238.8978930307944
+        ]
+      ],
+      "bbox": [
+        1855.8184764991897,
+        1238.8978930307944,
+        1051.799027552674,
+        687.7147487844406
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 627473.9790222459
+    },
+    {
+      "id": 69,
+      "image_id": 69,
+      "category_id": 0,
+      "segmentation": [
+        [
+          1860.8752025931926,
+          1299.578606158833,
+          1896.2722852512156,
+          1946.8395461912478,
+          2922.787682333874,
+          1870.9886547811993,
+          2846.936790923825,
+          1233.8411669367908
+        ]
+      ],
+      "bbox": [
+        1860.8752025931926,
+        1233.8411669367908,
+        1061.9124797406812,
+        712.998379254457
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 650180.5641875649
+    },
+    {
+      "id": 70,
+      "image_id": 70,
+      "category_id": 0,
+      "segmentation": [
+        [
+          1860.8752025931926,
+          1304.6353322528364,
+          1896.2722852512156,
+          1951.8962722852511,
+          2927.8444084278776,
+          1865.9319286871962,
+          2857.0502431118316,
+          1243.9546191247975
+        ]
+      ],
+      "bbox": [
+        1860.8752025931926,
+        1243.9546191247975,
+        1066.969205834685,
+        707.9416531604536
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 647316.6705631111
+    },
+    {
+      "id": 71,
+      "image_id": 71,
+      "category_id": 0,
+      "segmentation": [
+        [
+          1886.1588330632092,
+          1294.52188006483,
+          1911.4424635332255,
+          1946.8395461912478,
+          2953.128038897893,
+          1870.9886547811993,
+          2887.390599675851,
+          1243.9546191247975
+        ]
+      ],
+      "bbox": [
+        1886.1588330632092,
+        1243.9546191247975,
+        1066.9692058346839,
+        702.8849270664502
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 656279.123378926
+    },
+    {
+      "id": 72,
+      "image_id": 72,
+      "category_id": 0,
+      "segmentation": [
+        [
+          1855.8184764991897,
+          1264.1815235008103,
+          1896.2722852512156,
+          1906.385737439222,
+          2912.6742301458676,
+          1825.47811993517,
+          2851.9935170178283,
+          1213.6142625607781
+        ]
+      ],
+      "bbox": [
+        1855.8184764991897,
+        1213.6142625607781,
+        1056.8557536466778,
+        692.771474878444
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 634301.2968591163
+    },
+    {
+      "id": 73,
+      "image_id": 73,
+      "category_id": 0,
+      "segmentation": [
+        [
+          1886.1588330632092,
+          1264.1815235008103,
+          1921.5559157212315,
+          1865.9319286871962,
+          2877.2771474878446,
+          1820.4213938411667,
+          2821.6531604538095,
+          1218.6709886547812
+        ]
+      ],
+      "bbox": [
+        1886.1588330632092,
+        1218.6709886547812,
+        991.1183144246354,
+        647.260940032415
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 571091.073290797
+    },
+    {
+      "id": 74,
+      "image_id": 74,
+      "category_id": 0,
+      "segmentation": [
+        [
+          1855.8184764991897,
+          1289.4651539708266,
+          1865.9319286871962,
+          1865.9319286871962,
+          2806.4829821717994,
+          1830.5348460291734,
+          2755.915721231767,
+          1259.1247974068071
+        ]
+      ],
+      "bbox": [
+        1855.8184764991897,
+        1259.1247974068071,
+        950.6645056726097,
+        606.8071312803891
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 529206.6290331483
+    },
+    {
+      "id": 75,
+      "image_id": 75,
+      "category_id": 0,
+      "segmentation": [
+        [
+          1840.64829821718,
+          1522.0745542949755,
+          1886.1588330632092,
+          2138.995137763371,
+          2917.7309562398705,
+          2058.0875202593193,
+          2806.4829821717994,
+          1456.3371150729336
+        ]
+      ],
+      "bbox": [
+        1840.64829821718,
+        1456.3371150729336,
+        1077.0826580226906,
+        682.6580226904375
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 614292.3972061183
+    },
+    {
+      "id": 76,
+      "image_id": 76,
+      "category_id": 0,
+      "segmentation": [
+        [
+          1815.3646677471634,
+          1238.8978930307944,
+          1870.9886547811996,
+          1896.2722852512156,
+          2943.014586709887,
+          1800.194489465154,
+          2831.7666126418158,
+          1173.160453808752
+        ]
+      ],
+      "bbox": [
+        1815.3646677471634,
+        1173.160453808752,
+        1127.6499189627239,
+        723.1118314424637
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 677349.1979016988
+    },
+    {
+      "id": 77,
+      "image_id": 77,
+      "category_id": 0,
+      "segmentation": [
+        [
+          1825.4781199351703,
+          1132.706645056726,
+          1860.8752025931926,
+          1734.4570502431118,
+          2897.504051863857,
+          1648.4927066450566,
+          2796.3695299837927,
+          1051.7990275526743
+        ]
+      ],
+      "bbox": [
+        1825.4781199351703,
+        1051.7990275526743,
+        1072.0259319286868,
+        682.6580226904375
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 607171.0188631658
+    },
+    {
+      "id": 78,
+      "image_id": 78,
+      "category_id": 0,
+      "segmentation": [
+        [
+          1805.2512155591573,
+          1087.196110210697,
+          1840.64829821718,
+          1678.833063209076,
+          2831.7666126418153,
+          1597.9254457050245,
+          2740.745542949757,
+          1026.515397082658
+        ]
+      ],
+      "bbox": [
+        1805.2512155591573,
+        1026.515397082658,
+        1026.515397082658,
+        652.3176661264181
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 564660.0978751685
+    },
+    {
+      "id": 79,
+      "image_id": 79,
+      "category_id": 0,
+      "segmentation": [
+        [
+          1759.740680713128,
+          1132.7066450567263,
+          1795.1377633711506,
+          1668.7196110210696,
+          2680.0648298217184,
+          1613.0956239870338,
+          2624.4408427876824,
+          1077.08265802269
+        ]
+      ],
+      "bbox": [
+        1759.740680713128,
+        1077.08265802269,
+        920.3241491085903,
+        591.6369529983795
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 471442.91744705103
+    }
+  ],
+  "info": {
+    "year": 2026,
+    "version": "1.0",
+    "description": "",
+    "contributor": "Label Studio",
+    "url": "",
+    "date_created": "2026-11-22 19:35:12.310976"
+  }
+}
