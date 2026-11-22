@@ -22,7 +22,7 @@ Truth (ruler): 85.5 x 54.5 mm. Photos: 16, one card placement in the centre, eac
 Item 5, undistorted: MAE 2.29 mm, mean error 3.11 %, median 2.04 mm, worst 4.05 mm (IMG_20261122_200745.jpg, width)
 Item 6, raw (no undistortion): MAE 0.71 mm, mean error 1.21 %, median 0.63 mm, worst 1.72 mm (IMG_20261122_200736_2.jpg, height)
 Repeatability: width spread (SD) 0.53 mm, range 1.9 mm; height SD 0.34 mm, range 1.3 mm
-Item 7, speed: median 6.36 s per photo, range 5.73-8.49 s, plus 1.6 s to load the model once
+Item 7, speed: median 2.68 s per photo, range 2.47-3.19 s, plus 0.7 s to load the model once
 Item 9, refusals (worst error per photo, in mm):
 - confidence below 0.9: refuses 0 of 16 (0 %); observed 0.998-0.999; mean worst error kept 3.32 mm
 - tilt above 25.0: refuses 0 of 16 (0 %); observed 7.556-9.022; mean worst error kept 3.32 mm
