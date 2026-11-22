@@ -147,8 +147,9 @@ def coco_mask_map(samples, outputs, quiet=True):
                           "segmentation": rle, "score": float(score)})
     if not found:
         return 0.0, 0.0
-    printed = io.StringIO()
-    with contextlib.redirect_stdout(printed if quiet else None):
+    hush = (contextlib.redirect_stdout(io.StringIO()) if quiet
+            else contextlib.nullcontext())
+    with hush:
         coco_truth = COCO()
         coco_truth.dataset = truth
         coco_truth.createIndex()
